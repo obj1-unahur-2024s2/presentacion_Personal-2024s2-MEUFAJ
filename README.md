@@ -1,5 +1,6 @@
-<img src="./assets/bannerFloresNombreUnahur.png" alt="Mi presentación" width="200%" height="60%" >
-# Bienvenidxs !! :wave: :tada: :sparkles:
+<img src="./assets/bannerFloresNombreUnahur.png" alt="Mi presentación" width="200%" height="30%" >
+Bienvenidxs !! :wave: :tada: :sparkles:
+---
 
 Mi nombre es María Eugenia Fajardo estoy en el 2° año de la **Tec. Universitaria en Programación**. 
 
